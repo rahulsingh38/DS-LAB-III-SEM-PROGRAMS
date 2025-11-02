@@ -1,4 +1,4 @@
- Data Structures Lab Programs – III Semester
+🧠 Data Structures Lab Programs – III Semester
 
 Welcome to my Data Structures Laboratory Programs repository!
 This repository contains all the C programs implemented as part of the III Semester Data Structures Lab, covering fundamental concepts such as arrays, stacks, queues, linked lists, trees, and more.
@@ -116,7 +116,6 @@ IDE/Editor: Visual Studio Code
 
 Compiler: GCC / MinGW
 
-
 ▶️ How to Run the Programs
 
 You can compile and run any program using the terminal:
@@ -124,11 +123,13 @@ You can compile and run any program using the terminal:
 gcc filename.c -o output
 ./output
 
+
 Example:
 
 gcc 3_1stackusingarray.c -o stack
 ./stack
 
+📂 Folder Structure
 📦 DS LAB PROGRAMS
  ┣ 📜 1_1leftrotatearray.c
  ┣ 📜 1_2minimumdifference.c
@@ -136,14 +137,13 @@ gcc 3_1stackusingarray.c -o stack
  ┣ 📜 13_3findkthlargestelement.c
  ┗ 📜 README.md
 
-
 🎯 Learning Objectives
 
-Understand and implement core data structures.
+Understand and implement core data structures
 
-Gain hands-on experience with dynamic memory allocation in C.
+Gain hands-on experience with dynamic memory allocation in C
 
-Strengthen problem-solving skills for algorithmic thinking.
+Strengthen problem-solving and algorithmic thinking skills
 
 👨‍💻 Author
 
@@ -154,4 +154,4 @@ Institution: Graphic Era Hill University
 ⭐ Acknowledgment
 
 This repository is maintained for academic learning and reference.
-Special thanks to my professors and mentors for their guidance throughout the course.
+Special thanks to my professors and mentors for their continuous guidance throughout the course.
