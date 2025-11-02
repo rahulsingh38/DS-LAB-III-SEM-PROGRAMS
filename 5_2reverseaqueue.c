@@ -1,0 +1,1 @@
+//  Design an algorithm and write a program to reverse a queue.

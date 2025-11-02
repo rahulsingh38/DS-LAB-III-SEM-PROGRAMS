@@ -1,0 +1,2 @@
+//  Write an algorithm that will split a linked list into two linked lists, so that successive nodes go to
+//  different lists. Odd numbered nodes to the first list while even numbered nodes to the second list.
